@@ -10,7 +10,7 @@
 const emirhan = {
     location: "Turkey",
     currentFocus: "Full-Stack Development",
-    technologies: ["React", "TypeScript", "ASP.NET Core", "Entity Framework"],
+    technologies: ["Spring Boot", "ASP.NET Core","React", "TypeScript"],
     currentlyLearning: "Advanced Web Technologies",
     askMeAbout: ["React", "TypeScript", "ASP.NET Core", "Web Development"],
     funFact: "I love turning ideas into reality through code!"
